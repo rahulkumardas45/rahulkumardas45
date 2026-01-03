@@ -12,7 +12,7 @@
 💡 Exploring **Full Stack Development**, **System Design**, and **Open Source**.  
 🚀 Always excited to learn new technologies and build impactful projects.  
 📫 Reach me at: [rahul.230101096@iiitbh.ac.in](mailto:rahul.230101096@iiitbh.ac.in)  
-⚡ Fun fact: I debug faster when there’s coffee ☕  
+
 
 ---
 
