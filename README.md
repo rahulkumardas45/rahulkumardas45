@@ -19,7 +19,6 @@
 ## 🌐 Connect With Me
 <p align="center">
   <a href="https://linkedin.com/in/rahul-kumar-19aa8b2b1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://instagram.com/rahul_kumar_das56"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white" /></a>
   <a href="https://x.com/KumarRahul97669"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
   <a href="mailto:rahul.230101096@iiitbh.ac.in"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
 </p>
