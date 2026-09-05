@@ -11,7 +11,7 @@
 🎓 3rd-year **Computer Science student** at *IIIT Bhagalpur* passionate about tech innovation.  
 💡 Exploring **Full Stack Development**, **System Design**, and **Open Source**.  
 🚀 Always excited to learn new technologies and build impactful projects.  
-📫 Reach me at: [rahul.230101096@iiitbh.ac.in](mailto:rahul.230101096@iiitbh.ac.in)  
+📫 Reach me at: [rahul.230101096@iiitbh.ac.in](mailto:rahulku3223@gmail.com)  
 
 
 ---
