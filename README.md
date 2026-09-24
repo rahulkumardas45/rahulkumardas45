@@ -1,90 +1,157 @@
-<h1 align="center">👋 Hi, I'm RAHUL KUMAR</h1>
-<h3 align="center">💻 Full Stack Developer | 🧠 Competitive Programmer | ⚙️ System Design Enthusiast</h3>
+<h1 align="center">👋 Hi, I'm Rahul Kumar</h1>
+
+<h3 align="center">
+Full Stack Developer | AI / GenAI Engineer | DSA Enthusiast
+</h3>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=rahulkumardas45&label=Profile%20views&color=0e75b6&style=flat" alt="rahulkumardas45" />
+  <a href="https://github.com/rahulkumardas45">
+    <img src="https://komarev.com/ghpvc/?username=rahulkumardas45&label=Profile%20Views&color=0e75b6&style=flat" alt="Profile Views"/>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://linkedin.com/in/rahul-kumar-19aa8b2b1">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="https://x.com/KumarRahul97669">
+    <img src="https://img.shields.io/badge/X-Follow-000000?style=for-the-badge&logo=x&logoColor=white"/>
+  </a>
+  <a href="mailto:rahul.230101096@iiitbh.ac.in">
+    <img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
 </p>
 
 ---
 
-## 💫 About Me
-🎓 3rd-year **Computer Science student** at *IIIT Bhagalpur* passionate about tech innovation.  
-💡 Exploring **Full Stack Development**, **System Design**, and **Open Source**.  
-🚀 Always excited to learn new technologies and build impactful projects.  
-📫 Reach me at: [rahul.230101096@iiitbh.ac.in](mailto:rahulku3223@gmail.com)  
+## 👨‍💻 About Me
 
+🎓 Computer Science & Engineering student at **IIIT Bhagalpur**
+
+💻 **Full Stack Developer** focused on building scalable and production-ready web applications.
+
+🤖 Exploring **Generative AI, LLMs, RAG, LangChain and Gemini API**.
+
+⚙️ Interested in **backend engineering, system design, APIs, databases and scalable architectures**.
+
+🧠 Strong foundation in **Data Structures, Algorithms, OOP, DBMS, Operating Systems and Computer Networks**.
+
+🔥 Solved **400+ DSA problems on LeetCode** with a peak contest rating of **1516**.
+
+🚀 Currently building projects that combine **Full Stack Development + AI**.
+
+📍 Bhagalpur, Bihar, India
+
+📫 Reach me at **[rahul.230101096@iiitbh.ac.in](mailto:rahul.230101096@iiitbh.ac.in)**
 
 ---
 
-## 🌐 Connect With Me
-<p align="center">
-  <a href="https://linkedin.com/in/rahul-kumar-19aa8b2b1"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white" /></a>
-  <a href="https://x.com/KumarRahul97669"><img src="https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white" /></a>
-  <a href="mailto:rahul.230101096@iiitbh.ac.in"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white" /></a>
+## 🧰 Tech Stack
+
+### 💻 Languages
+
+<p>
+<img src="https://skillicons.dev/icons?i=cpp,python,javascript,typescript,sql" />
+</p>
+
+### 🎨 Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,react,nextjs,redux,tailwind" />
+</p>
+
+### ⚙️ Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=nodejs,express" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/REST%20APIs-02569B?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Authentication-JWT-black?style=for-the-badge"/>
+</p>
+
+### 🗄️ Databases & Caching
+
+<p>
+<img src="https://skillicons.dev/icons?i=postgresql,mongodb,mysql,redis" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/Drizzle%20ORM-C5F74F?style=for-the-badge&logo=drizzle&logoColor=black"/>
+</p>
+
+### 🤖 AI / Machine Learning
+
+<p>
+<img src="https://img.shields.io/badge/Generative%20AI-8E75B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LLMs-412991?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/RAG-FF6F00?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Gemini%20API-8E75B2?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Function%20Calling-4285F4?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Prompt%20Engineering-412991?style=for-the-badge"/>
+</p>
+
+<p>
+<img src="https://skillicons.dev/icons?i=python" />
+<img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white"/>
+<img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white"/>
+</p>
+
+### ☁️ DevOps & Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,docker,postman,vercel,vscode" />
+</p>
+
+<p>
+<img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+<img src="https://img.shields.io/badge/CI%2FCD-2088FF?style=for-the-badge"/>
+<img src="https://img.shields.io/badge/Agile-2496ED?style=for-the-badge"/>
 </p>
 
 ---
 
-## 💻 Tech Stack
+
+
+# 🏅 GitHub Trophies
+
 <p align="center">
-  
-### 🧩 **Frontend**
-![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=for-the-badge&logo=vite&logoColor=white)
-![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router&logoColor=white)
-![Context-API](https://img.shields.io/badge/Context--Api-000000?style=for-the-badge&logo=react)
-![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-%23EC5990.svg?style=for-the-badge&logo=reacthookform&logoColor=white)
+  <img src="https://github-profile-trophy.vercel.app/?username=rahulkumardas45&theme=tokyonight&no-frame=true&no-bg=true&margin-w=6" />
+</p>
 
-### 🧠 **Backend**
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
-![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![JWT](https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens)
+---
 
-### 🛢️ **Database**
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
-![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
 
-### ⚙️ **Tools & Platforms**
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
-![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white)
-![Nodemon](https://img.shields.io/badge/Nodemon-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD)
-![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)
-![Netlify](https://img.shields.io/badge/netlify-%23000000.svg?style=for-the-badge&logo=netlify&logoColor=#00C7B7)
-![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
+# 🤝 Let's Connect
 
-### 📊 **Data Science Tools**
-![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
-![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black)
+I'm interested in opportunities and collaborations around:
+
+**Full Stack Development • AI Engineering • Backend Development • Generative AI • Open Source • System Design**
+
+<p align="center">
+
+<a href="mailto:rahul.230101096@iiitbh.ac.in">
+<img src="https://img.shields.io/badge/Let's%20Connect-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+</a>
+
+<a href="https://linkedin.com/in/rahul-kumar-19aa8b2b1">
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://github.com/rahulkumardas45">
+<img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
 
 </p>
 
 ---
 
-## 📈 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rahulkumardas45&theme=dark&hide_border=false&include_all_commits=true&count_private=false" /><br/>
-  <img src="https://nirzak-streak-stats.vercel.app/?user=rahulkumardas45&theme=dark&hide_border=false" /><br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rahulkumardas45&theme=dark&hide_border=false&layout=compact" />
+  <b>💻 Build • 🤖 Learn • 🧠 Solve • 🚀 Grow</b>
 </p>
 
----
-
-## 🏆 GitHub Trophies
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=rahulkumardas45&theme=radical&no-frame=false&no-bg=true&margin-w=4" />
+  <i>Always learning. Always building.</i>
 </p>
-
----
-
-<p align="center">
-  <img src="https://visitcount.itsvg.in/api?id=rahulkumardas45&icon=0&color=0" />
-</p>
-
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
